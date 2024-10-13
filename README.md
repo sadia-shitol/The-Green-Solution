@@ -1,8 +1,39 @@
-# React + Vite
+<h1 align="center"  style="vertical-align: middle;" >
+  <img src="https://i.ibb.co.com/D5Wr9MQ/The-Green-Solution.png" alt="Logo" height="60" width="65">
+The Green Solution
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">A QnA Web App For Farmers and Agronomists </p>
 
-Currently, two official plugins are available:
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+<img src="https://i.ibb.co.com/ZgJqK2m/Screenshot-2024-10-14-020113.png">
+
+## ⚠️ Problem Statement
+Farmers of our country are not up-to-date on the latest agriculture research,as such they face problems during crop cultivation. Despite the vast advancements in technology, very few endeavors are taken to aid farmers using modern innovations. The farmers therefore face a gap in knowledge about new and better farming techniques.
+
+Our web application will help filling this gap, by providing them with the help they need from agronomists and help find solutions to their farming-related problems.
+
+## 📱 Features
+- **Help Farmers get solutions to their problems:** Farmers will be able to get solutions to their problems  from agronomists using this platform.
+- **Minimalistic UI, Voice to Text Conversion and Native Language Support:** In order to ensure that farmers are able to navigate the website, a simple design will be maintained.
+- **Provide Transparency to Farmers:** Farmers are often exploited by negotiators and middlemen. The Green Solution will help prevent this by listing current prices for produce.
+
+## ⚒️ Technology Stack
+
+- Figma (UI/UX Prototyping)
+- Frontend: **React Framework** (HTML,CSS,Javascript)
+- Backend:**Express Framework** (Javascript)
+
+
+## 👀 More Look & Feel
+
+Here's what we have developed!
+
+<img src="https://i.ibb.co.com/WDwXcWG/Screenshot-2024-10-14-024713.png">
+<img src="https://i.ibb.co.com/r7v61hZ/Screenshot-2024-10-14-025719.png">
+<img src="https://i.ibb.co.com/mtr26jF/Screenshot-2024-10-14-030049.png">
+<img src="https://i.ibb.co.com/bX5ftwp/Screenshot-2024-10-14-025527.png">
+<img src="https://i.ibb.co.com/XZyyKdh/Screenshot-2024-10-14-025744.png">
+<img src="https://i.ibb.co.com/jWcVY0p/Screenshot-2024-10-14-025814.png">

@@ -1,5 +1,5 @@
 <h1 align="center"  style="vertical-align: middle;" >
-  <img src="https://i.ibb.co.com/D5Wr9MQ/The-Green-Solution.png" alt="Logo" height="60" width="65">
+  <img src="https://i.ibb.co.com/D5Wr9MQ/The-Green-Solution.png" alt="Logo" height="60" width="60">
 The Green Solution
 </h1>
 

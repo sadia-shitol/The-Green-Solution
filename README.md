@@ -1,5 +1,5 @@
 <h1 align="center"  style="vertical-align: middle;" >
-  <img src="https://i.ibb.co.com/D5Wr9MQ/The-Green-Solution.png" alt="Logo" height="60" width="60">
+  <img src="https://i.ibb.co.com/D5Wr9MQ/The-Green-Solution.png" alt="Logo" height="50" width="60">
 The Green Solution
 </h1>
 
@@ -37,3 +37,4 @@ Here's what we have developed!
 <img src="https://i.ibb.co.com/bX5ftwp/Screenshot-2024-10-14-025527.png">
 <img src="https://i.ibb.co.com/XZyyKdh/Screenshot-2024-10-14-025744.png">
 <img src="https://i.ibb.co.com/jWcVY0p/Screenshot-2024-10-14-025814.png">
+<img src="https://i.ibb.co.com/By2t5yX/Screenshot-2024-10-14-031608.png">

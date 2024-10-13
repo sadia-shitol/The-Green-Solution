@@ -30,16 +30,16 @@ Our web application will help filling this gap, by providing them with the help 
 ## 👀 More Look & Feel
 
 Here's what we have developed!
-<img src="https://i.ibb.co.com/WDwXcWG/Screenshot-2024-10-14-024713.png">
+<img src="https://i.ibb.co.com/WDwXcWG/Screenshot-2024-10-14-024713.png"><br>
 **Farmer's Home Page:**
-<img src="https://i.ibb.co.com/r7v61hZ/Screenshot-2024-10-14-025719.png">
+<img src="https://i.ibb.co.com/r7v61hZ/Screenshot-2024-10-14-025719.png"><br>
 **Implementing Search Using Natural Language Processing:**
-<img src="https://i.ibb.co.com/mtr26jF/Screenshot-2024-10-14-030049.png">
+<img src="https://i.ibb.co.com/mtr26jF/Screenshot-2024-10-14-030049.png"><br>
 **Agronomist's Home Page:**
-<img src="https://i.ibb.co.com/bX5ftwp/Screenshot-2024-10-14-025527.png">
+<img src="https://i.ibb.co.com/bX5ftwp/Screenshot-2024-10-14-025527.png"><br>
 **Individual Question's Answer Page for the Farmers:**
-<img src="https://i.ibb.co.com/XZyyKdh/Screenshot-2024-10-14-025744.png">
+<img src="https://i.ibb.co.com/XZyyKdh/Screenshot-2024-10-14-025744.png"><br>
 **Question Answer Page with Native Language Support:**
-<img src="https://i.ibb.co.com/jWcVY0p/Screenshot-2024-10-14-025814.png">
+<img src="https://i.ibb.co.com/jWcVY0p/Screenshot-2024-10-14-025814.png"><br>
 **Answer Editing Page for the Agronomists:**
 <img src="https://i.ibb.co.com/By2t5yX/Screenshot-2024-10-14-031608.png">

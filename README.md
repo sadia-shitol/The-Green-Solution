@@ -22,7 +22,7 @@ Our web application will help filling this gap, by providing them with the help 
 
 ## ⚒️ Technology Stack
 
-- Figma (UI/UX Prototyping)
+- UI/UX Prototyping: **Figma**
 - Frontend: **React Framework** (HTML,CSS,Javascript)
 - Backend:**Express Framework** (Javascript)
 
@@ -37,9 +37,9 @@ Here's what we have developed!
 <img src="https://i.ibb.co.com/mtr26jF/Screenshot-2024-10-14-030049.png"><br>
 **Agronomist's Home Page:**
 <img src="https://i.ibb.co.com/bX5ftwp/Screenshot-2024-10-14-025527.png"><br>
-**Individual Question's Answer Page for the Farmers:**
+**Individual Question's Answer Page for the Farmers containing Rating system for the answers:**
 <img src="https://i.ibb.co.com/XZyyKdh/Screenshot-2024-10-14-025744.png"><br>
-**Question Answer Page with Native Language Support:**
+**Native Language Support:**
 <img src="https://i.ibb.co.com/jWcVY0p/Screenshot-2024-10-14-025814.png"><br>
 **Answer Editing Page for the Agronomists:**
 <img src="https://i.ibb.co.com/By2t5yX/Screenshot-2024-10-14-031608.png">
